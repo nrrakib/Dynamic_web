@@ -1,0 +1,55 @@
+/* 
+Theme Name:Padma2
+Version:0.0.1
+Author:Rakib
+
+*/
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo{
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.slider{
+    position: absolute;
+}
+.menu-1{
+    margin-top: 295px;
+    margin-bottom: 20px;
+    padding: 15px 10px;
+}
+.menu-1 li a{
+    text-decoration: none;
+    padding: 15px 10px;
+    font-size: 22px;
+    color: rgb(0, 8, 255);
+}
+.menu-1 li a:hover{
+    background: #6548f6;
+    color: white;
+}
+
+.hero-top span{
+    color: red;
+}
+.hero-top{
+
+}
+.hbimg1 img{
+    margin-top: -50px;
+}
+
+.text-white{
+    text-decoration: none;
+}
+.text-white:hover{
+background-color: #6548f6;
+color: aqua;
+}
